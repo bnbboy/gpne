@@ -78,7 +78,7 @@ ul, ol {
 }
 #minislide2{
 	background-color: #F4F4F4;
-	background-image: url(../images/slide1.png);
+	background-image: url(../images/mydesign3.png);
 	background-size: 127px auto;
 	background-position: -72px 32%;
 }
@@ -372,3 +372,10 @@ margin: 0 auto;
 }
 
 
+
+/* Footer CONTENT
+-------------------------------------------------- */
+footer{
+	color: #000;
+	font-style: normal;
+}
